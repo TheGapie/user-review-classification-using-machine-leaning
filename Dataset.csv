@@ -1,0 +1,201 @@
+Review Id,Feature 1:Picture Quality,Feature 2:Sound Quality,Feature 3:Connectivity,Feature 4:Price
+1,Highly Satisfactory,Nice,Good,Worth it
+2,Moderate,Medium,Average,Satisfactory
+3,Unsatisfactory,Poor,Inadequate,Futile
+4,Moderate,Medium,Good,Satisfactory
+5,Highly Satisfactory,Nice,Good,Worth it
+6,Unsatisfactory,Poor,Inadequate,Futile
+7,Highly Satisfactory,Nice,Good,Worth it
+8,Highly Satisfactory,Nice,Good,Worth it
+9,Highly Satisfactory,Nice,Good,Satisfactory
+10,Unsatisfactory,Poor,Inadequate,Futile
+11,Unsatisfactory,Medium,Good,Satisfactory
+12,Highly Satisfactory,Nice,Good,Worth it
+13,Highly Satisfactory,Nice,Average,Satisfactory
+14,Unsatisfactory,Medium,Average,Satisfactory
+15,Highly Satisfactory,Nice,Good,Worth it
+16,Highly Satisfactory,Nice,Good,Worth it
+17,Highly Satisfactory,Medium,Good,Worth it
+18,Highly Satisfactory,Medium,Average,Worth it
+19,Unsatisfactory,Medium,Inadequate,Futile
+20,Highly Satisfactory,Nice,Average,Satisfactory
+21,Unsatisfactory,Poor,Inadequate,Futile
+22,Moderate,Medium,Average,Worth it
+23,Unsatisfactory,Poor,Inadequate,Futile
+24,Moderate,Medium,Inadequate,Futile
+25,Moderate,Medium,Good,Worth it
+26,Moderate,Poor,Inadequate,Futile
+27,Highly Satisfactory,Nice,Good,Worth it
+28,Highly Satisfactory,Nice,Good,Satisfactory
+29,Highly Satisfactory,Nice,Good,Worth it
+30,Highly Satisfactory,Nice,Average,Satisfactory
+31,Moderate,Poor,Inadequate,Satisfactory
+32,Highly Satisfactory,Poor,Average,Satisfactory
+33,Moderate,Medium,Average,Satisfactory
+34,Highly Satisfactory,Medium,Average,Worth it
+35,Highly Satisfactory,Nice,Good,Satisfactory
+36,Highly Satisfactory,Nice,Average,Worth it
+37,Moderate,Nice,Average,Satisfactory
+38,Highly Satisfactory,Medium,Good,Worth it
+39,Highly Satisfactory,Nice,Good,Worth it
+40,Moderate,Medium,Average,Satisfactory
+41,Highly Satisfactory,Nice,Good,Worth it
+42,Highly Satisfactory,Nice,Good,Satisfactory
+43,Highly Satisfactory,Medium,Good,Satisfactory
+44,Moderate,Medium,Average,Satisfactory
+45,Highly Satisfactory,Nice,Good,Worth it
+46,Highly Satisfactory,Nice,Good,Worth it
+47,Moderate,Medium,Good,Worth it
+48,Highly Satisfactory,Medium,Average,Satisfactory
+49,Moderate,Nice,Good,Worth it
+50,Unsatisfactory,Poor,Inadequate,Futile
+51,Highly Satisfactory,Nice,Good,Satisfactory
+52,Highly Satisfactory,Nice,Average,Satisfactory
+53,Highly Satisfactory,Nice,Good,Satisfactory
+54,Moderate,Poor,Average,Satisfactory
+55,Highly Satisfactory,Nice,Good,Futile
+56,Highly Satisfactory,Medium,Good,Worth it
+57,Highly Satisfactory,Nice,Average,Worth it
+58,Highly Satisfactory,Medium,Good,Satisfactory
+59,Moderate,Nice,Good,Satisfactory
+60,Highly Satisfactory,Nice,Good,Worth it
+61,Highly Satisfactory,Nice,Average,Worth it
+62,Highly Satisfactory,Medium,Good,Satisfactory
+63,Highly Satisfactory,Medium,Good,Satisfactory
+64,Unsatisfactory,Medium,Average,Satisfactory
+65,Unsatisfactory,Poor,Inadequate,Futile
+66,Highly Satisfactory,Medium,Average,Worth it
+67,Highly Satisfactory,Poor,Good,Satisfactory
+68,Moderate,Medium,Average,Satisfactory
+69,Highly Satisfactory,Medium,Good,Worth it
+70,Highly Satisfactory,Nice,Good,Satisfactory
+71,Highly Satisfactory,Nice,Good,Worth it
+72,Highly Satisfactory,Nice,Average,Satisfactory
+73,Highly Satisfactory,Medium,Good,Worth it
+74,Highly Satisfactory,Nice,Good,Worth it
+75,Highly Satisfactory,Medium,Good,Satisfactory
+76,Unsatisfactory,Medium,Good,Satisfactory
+77,Highly Satisfactory,Nice,Inadequate,Worth it
+78,Highly Satisfactory,Nice,Inadequate,Satisfactory
+79,Moderate,Nice,Inadequate,Satisfactory
+80,Highly Satisfactory,Nice,Good,Worth it
+81,Highly Satisfactory,Nice,Good,Worth it
+82,Moderate,Poor,Good,Satisfactory
+83,Moderate,Medium,Average,Satisfactory
+84,Highly Satisfactory,Nice,Average,Satisfactory
+85,Unsatisfactory,Poor,Inadequate,Futile
+86,Highly Satisfactory,Nice,Average,Worth it
+87,Highly Satisfactory,Nice,Good,Satisfactory
+88,Highly Satisfactory,Medium,Average,Satisfactory
+89,Highly Satisfactory,Nice,Good,Futile
+90,Highly Satisfactory,Nice,Average,Worth it
+91,Moderate,Poor,Average,Futile
+92,Highly Satisfactory,Poor,Good,Worth it
+93,Highly Satisfactory,Nice,Average,Satisfactory
+94,Highly Satisfactory,Medium,Good,Satisfactory
+95,Moderate,Medium,Good,Satisfactory
+96,Highly Satisfactory,Medium,Good,Worth it
+97,Highly Satisfactory,Poor,Inadequate,Futile
+98,Moderate,Nice,Good,Worth it
+99,Highly Satisfactory,Nice,Good,Worth it
+100,Highly Satisfactory,Medium,Good,Satisfactory
+101,Moderate,Medium,Good,Satisfactory
+102,Unsatisfactory,Medium,Average,Satisfactory
+103,Unsatisfactory,Poor,Good,Satisfactory
+104,Moderate,Nice,Good,Worth It
+105,Highly Satisfactory,Medium,Good,Satisfactory
+106,Highly Satisfactory,Nice,Good,Nonsensical
+107,Highly Satisfactory,Nice,Good,Worth It
+108,Moderate,Poor,Average,Satisfactory
+109,Highly Satisfactory,Medium,Average,Worth It
+110,Highly Satisfactory,Medium,Good,Worth It
+111,Highly Satisfactory,Nice,Good,Worth It
+112,Moderate,Medium,Inadequate,Satisfactory
+113,Unsatisfactory,Poor,Average,Satisfactory
+114,Highly Satisfactory,Nice,Average,Worth It
+115,Highly Satisfactory,Nice,Average,Worth It
+116,Highly Satisfactory,Nice,Average,Satisfactory
+117,Highly Satisfactory,Nice,Good,Worth It
+118,Highly Satisfactory,Nice,Average,Worth It
+119,Highly Satisfactory,Medium,Average,Satisfactory
+120,Highly Satisfactory,Nice,Good,Nonsensical
+121,Highly Satisfactory,Nice,Good,Satisfactory
+122,Highly Satisfactory,Nice,Good,Worth It
+123,Moderate,Medium,Inadequate,Satisfactory
+124,Highly Satisfactory,Medium,Average,Worth It
+125,Moderate,Medium,Average,Satisfactory
+126,Highly Satisfactory,Nice,Average,Worth It
+127,Highly Satisfactory,Nice,Good,Worth It
+128,Highly Satisfactory,Nice,Good,Worth It
+129,Highly Satisfactory,Nice,Average,Satisfactory
+130,Highly Satisfactory,Nice,Good,Worth It
+131,Highly Satisfactory,Nice,Average,Worth It
+132,Highly Satisfactory,Nice,Good,Satisfactory
+133,Highly Satisfactory,Nice,Average,Worth It
+134,Highly Satisfactory,Nice,Good,Worth It
+135,Highly Satisfactory,Nice,Good,Worth It
+136,Moderate,Medium,Average,Nonsensical
+137,Highly Satisfactory,Medium,Good,Satisfactory
+138,Highly Satisfactory,Nice,Good,Worth It
+139,Moderate,Poor,Inadequate,Satisfactory
+140,Unsatisfactory,Medium,Good,Nonsensical
+141,Unsatisfactory,Poor,Inadequate,Nonsensical
+142,Highly Satisfactory,Nice,Average,Worth It
+143,Highly Satisfactory,Medium,Good,Worth It
+144,Highly Satisfactory,Medium,Average,Worth It
+145,Unsatisfactory,Medium,Average,Satisfactory
+146,Moderate,Medium,Average,Nonsensical
+147,Highly Satisfactory,Nice,Good,Satisfactory
+148,Highly Satisfactory,Nice,Good,Worth It
+149,Highly Satisfactory,Nice,Good,Satisfactory
+150,Highly Satisfactory,Nice,Average,Satisfactory
+151,Highly Satisfactory,Nice,Good,Worth It
+152,Moderate,Nice,Inadequate,Satisfactory
+153,Moderate,Medium,Average,Satisfactory
+154,Highly Satisfactory,Medium,Average,Worth It
+155,Highly Satisfactory,Medium,Good,Worth It
+156,Unsatisfactory,Medium,Good,Satisfactory
+157,Unsatisfactory,Poor,Average,Nonsensical
+158,Highly Satisfactory,Nice,Good,Satisfactory
+159,Moderate,Medium,Average,Satisfactory
+160,Moderate,Medium,Average,Satisfactory
+161,Highly Satisfactory,Nice,Average,Worth It
+162,Highly Satisfactory,Medium,Good,Worth It
+163,Highly Satisfactory,Nice,Good,Satisfactory
+164,Moderate,Medium,Good,Satisfactory
+165,Moderate,Medium,Average,Worth It
+166,Highly Satisfactory,Nice,Good,Satisfactory
+167,Moderate,Nice,Average,Satisfactory
+168,Highly Satisfactory,Medium,Average,Worth It
+169,Unsatisfactory,Poor,Inadequate,Nonsensical
+170,Highly Satisfactory,Nice,Good,Worth It
+171,Unsatisfactory,Poor,Inadequate,Nonsensical
+172,Moderate,Medium,Good,Worth It
+173,Highly Satisfactory,Nice,Good,Worth It
+174,Highly Satisfactory,Medium,Average,Worth It
+175,Moderate,Poor,Average,Nonsensical
+176,Highly Satisfactory,Nice,Average,Worth It
+177,Highly Satisfactory,Nice,Good,Worth It
+178,Highly Satisfactory,Medium,Good,Worth It
+179,Moderate,Medium,Average,Satisfactory
+180,Unsatisfactory,Poor,Inadequate,Nonsensical
+181,Highly Satisfactory,Poor,Inadequate,Worth It
+182,Highly Satisfactory,Nice,Average,Worth It
+183,Highly Satisfactory,Nice,Good,Worth It
+184,Moderate,Poor,Inadequate,Nonsensical
+185,Unsatisfactory,Poor,Inadequate,Nonsensical
+186,Highly Satisfactory,Medium,Average,Worth It
+187,Highly Satisfactory,Nice,Good,Worth It
+188,Highly Satisfactory,Nice,Good,Worth It
+189,Highly Satisfactory,Nice,Good,Worth It
+190,Highly Satisfactory,Medium,Good,Worth It
+191,Unsatisfactory,Poor,Inadequate,Nonsensical
+192,Highly Satisfactory,Nice,Good,Worth It
+193,Moderate,Medium,Inadequate,Satisfactory
+194,Highly Satisfactory,Nice,Average,Satisfactory
+195,Highly Satisfactory,Medium,Good,Satisfactory
+196,Highly Satisfactory,Nice,Good,Worth It
+197,Highly Satisfactory,Nice,Good,Worth It
+198,Unsatisfactory,Poor,Inadequate,Nonsensical
+199,Highly Satisfactory,Nice,Good,Satisfactory
+200,Highly Satisfactory,Medium,Good,Worth It
